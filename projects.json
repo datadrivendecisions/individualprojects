@@ -1,0 +1,232 @@
+[
+    {
+        "title": "Explore Tensorflow with FastAPI",
+        "description": "Learn to integrate TensorFlow with FastAPI for advanced data processing.",
+        "videoUrl": "https://youtu.be/DSHfHT5qnGc?si=EjjGBbIuL2oiXfoT"
+    },
+    {
+        "title": "Baserow with Python",
+        "description": "Discover how to use Baserow with Python for efficient database management.",
+        "videoUrl": "https://youtu.be/_FLpOlyH-rs?si=fEuyHxdWsT7NRx3v"
+    },
+    {
+        "title": "SuperDuperDB",
+        "description": "Dive into SuperDuperDB to understand its features and capabilities.",
+        "videoUrl": "https://youtu.be/MT3oiLHRZ7Y?si=4bFkCKtH0GMUvz-5"
+    },
+    {
+        "title": "Explain testing with Playwright",
+        "description": "Uncover the intricacies of web application testing using Playwright.",
+        "videoUrl": "https://youtu.be/0Oc2aAR17BU?si=whRkGIk2YZl9Crgc"
+    },
+    {
+        "title": "Sentiment analysis in Google Sheets",
+        "description": "Explore the fascinating world of sentiment analysis directly within Google Sheets. ",
+        "videoUrl": "https://youtu.be/Mz9JG9CUXXY?si=GQc3GBCCI05Oie_A"
+    },
+    {
+        "title": "Quick app development with Python and Taipy",
+        "description": "Learn how to quickly build and deploy interactive applications, emphasizing efficiency and ease of use.",
+        "videoUrl": "https://youtu.be/v_Lnd3EoEHk?si=t-jc-xJy9jsRz5FV"
+    },
+    {
+        "title": "Realtime Streamlit Dashboard",
+        "description": "Dive into the dynamic capabilities of Streamlit for creating real-time dashboards.",
+        "videoUrl": "https://youtu.be/YRA90MX4XiM?si=8ZjvGuZI2moM9QN1"
+    },
+    {
+        "title": "Mapping with Python & Folium",
+        "description": "Create maps from raw CSV data in Python. Learn how to read in data, transform it to extract the information and create maps.",
+        "videoUrl": "https://youtu.be/H8Ypb8Ei9YA?si=k6Ij8rq1GQcw1lny"
+    },
+    {
+        "title": "Prototype ML with Visual Blocks",
+        "description": "In this session, you will build an ML application in just 20 minutes using a no-code system called Visual Blocks. There are many examples to try, from AR virtual try-on experiences to LLM-driven trip planner. ",
+        "videoUrl": "https://youtu.be/VyQAVSKuhq4?si=KRivkXAeVbnKAFgm"
+    },
+    {
+        "title": "Effortless Data Analysis and Cleaning with Data Wrangler",
+        "description": "Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.",
+        "videoUrl": "https://www.youtube.com/watch?v=gc0Hm1NpYPo&t=650s&ab_channel=VisualStudioCode"
+    },
+    {
+        "title": "The ChatGPT API Beginners Guide",
+        "description": "Learn how to build your own ChatGPT chatbot with the ChatGPT API, Python, and OpenAI in this tutorial.",
+        "videoUrl": "https://youtu.be/7p7kJvckrFE?si=krUvYjb9r1qJBxkp"
+    },
+    {
+        "title": "How to Make a Game in Python",
+        "description": "An introduction to Python Game Development using the Pygame module, a simple 2D graphics library in Python.",
+        "videoUrl": "https://youtu.be/waY3LfJhQLY?si=xNptW4kwJzu6JNy3"
+    },
+    {
+        "title": "Physics Simulations With Python and PyMunk",
+        "description": "Introduction to PyMunk with demos and a full tutorial.",
+        "videoUrl": "https://youtu.be/tLsi2DeUsak?si=0E0qufk4DHKOzLoy"
+    },
+    {
+        "title": "Simulating Real-Life Processes in Python",
+        "description": "Learn how to simulate real-world processes in Python with SimPy.",
+        "videoUrl": "https://youtu.be/8SLk_uRRcgc?si=QvxyI6q1LWYenkck"
+    },
+    {
+        "title": "Knowledge Graph Construction Demo from raw text using an LLM",
+        "description": "Code & Application: https://github.com/neo4j/NaLLM Use the repo to run a demo of the app.",
+        "videoUrl": "https://youtu.be/Hg4ahTQlBm0?si=KSym-6k8TH93B5cv"
+    },
+    {
+        "title": "Building an Open Source Data Stack",
+        "description": "By the end of the workshop, you should have the context you need to design your own analytics stack using open-source tools.",
+        "videoUrl": "https://youtu.be/S1wPKjWFmqo?si=2TbvYvUOkLKYqLFR"
+    },
+    {
+        "title": "Using Copilot with Jupyter Notebooks",
+        "description": "If you want to learn how to use GitHub Copilot, the AI pair programmer that helps you write code faster and better, then this video is for you.",
+        "videoUrl": "https://youtu.be/QS_bh-3qKdw?si=WWl88d3qwL_rNsBu"
+    },
+    {
+        "title": "OpenAI Whisper and Python: Easy Speech to Text",
+        "description": "Learn how to record, transcribe, and automate your journaling with Python, OpenAI Whisper, and the terminal!",
+        "videoUrl": "https://youtu.be/xDKAX2_pul0?si=X--HtiTOcRJSvQvY"
+    },
+    {
+        "title": "Make Your Own Visual Novel",
+        "description": "Ren'Py is a powerful, easy-to-use, and FREE visual novel game engine based on the Python programming language.",
+        "videoUrl": "https://youtu.be/vith10gG8L4?si=i2lXOFV-yYG3S7d0"
+    },
+    {
+        "title": "How to build your first app using Power Apps",
+        "description": "Create low code Power Apps to automate everyday tasks. AI-driven Copilot capabilities make it easy to interact with your app and its data using natural language. ",
+        "videoUrl": "https://youtu.be/UwbCIZTx59I?si=fqpLrYZ9Yyia2NRR"
+    },
+    {
+        "title": "Tour of FlutterFlow",
+        "description": "This is your first 10 minutes of FlutterFlow.",
+        "videoUrl": "https://youtu.be/GpXjU-ieAKU?si=EyS_IPLJIekTEl28"
+    },
+    {
+        "title": "Dataiku for Generative AI",
+        "description": "Move beyond the lab and build real and safe Generative AI applications at enterprise scale.",
+        "videoUrl": "https://youtu.be/UVbrpX8Zkn8?si=kjcpb8YZkQtS9IC5"
+    },
+    {
+        "title": "Apache Superset | Open Source Data Exploration & Vizualization Platform",
+        "description": "In this video, we explore Superset, a free and open-source data exploration & visualization tool.",
+        "videoUrl": "https://youtu.be/_1_rg5gAAjE?si=xKQQDQESwoY5TVA1"
+    },
+    {
+        "title": "Assistant API No-Code Integration: OpenAI Meets Zapier For Smart Automations",
+        "description": "The OpenAI Assistant API empowers developers and non-developers alike to build custom AI assistants within their applications, now with the added convenience of no-code integration using Zapier.",
+        "videoUrl": "https://youtu.be/IPdL5QOuPMo?si=aDWGySIVzD5WzoV0"
+    },
+    {
+        "title": "Keras: Shortcut to AI mastery",
+        "description": "This workshop will explore the powerful Keras 3 API and walk through deep learning best practices, how to write a simple model, and run it with a backend of your choice.",
+        "videoUrl": "https://youtu.be/0HcYOcFBQlk?si=JRY4jLGF0rw_mKZt"
+    },
+    {
+        "title": "Build a CRM application",
+        "description": "CRUD mastery with Django.",
+        "videoUrl": "https://youtu.be/pqWyUAT38e0?si=eVdY7tO9HiYFWrR-"
+    },
+    {
+        "title": "Deploy a Django web app to Python Anywhere",
+        "description": "It took some time, but it's finally here. A free way to deploy your Django web app.",
+        "videoUrl": "https://youtu.be/xtnUwvjOThg?si=VowokUHztM4O_iOg"
+    },
+    {
+        "title": "Integrating Foundation Models into Your Code with Amazon Bedrock",
+        "description": "Discover Amazon Bedrock and learn how to integrate generative AI models from leading AI startups and Amazon into your applications.",
+        "videoUrl": "https://youtu.be/ab1mbj0acDo?si=mLKoBd4NtMj7CUai"
+    },
+    {
+        "title": "Introduction to Generative AI Studio",
+        "description": "Prototype and customize generative AI models with Generative AI Studio, a product on Vertex AI.",
+        "videoUrl": "https://youtu.be/-7nf5EJ2Fsc?si=1c-HwSrcyT69EfBA"
+    },
+    {
+        "title": "Build powerful AI apps with Copilot in Microsoft Fabric",
+        "description": "Build new analytics and AI models and supercharge your intelligent app strategy across your organization.",
+        "videoUrl": "https://youtu.be/rGA4K18mSwI?si=4Pa3ry2m4oVscXXp"
+    },
+    {
+        "title": "AutoGen Studio Tutorial - NO CODE AI Agent Builder",
+        "description": "AutoGen Studio was released, and it makes creating AI Agent teams super simple; basically, there is no code.",
+        "videoUrl": "https://youtu.be/mUEFwUU0IfE?si=-zaudT_dmaWNLQIp"
+    },
+    {
+        "title": "Neural Networks Explained from Scratch using Python",
+        "description": "An intuitive understanding of Neural Networks through Python code and detailed animations.",
+        "videoUrl": "https://youtu.be/9RN2Wr8xvro?si=MUg7y9vJiwExu7Sq"
+    },
+    {
+        "title": "How I Build AI WhatsApp Chatbots w/ Python",
+        "description": "Let's explore the WhatsApp API to build AI chatbotbots with pure Python.",
+        "videoUrl": "https://youtu.be/3YPeh-3AFmM?si=CuBqIlzDDw1Xrr-B"
+    },
+    {
+        "title": "AI-Driven Design",
+        "description": "Guest Tim Allen joins John Maeda to discuss AI-Driven Design and Craftsmanship. They also have some sample code to help them go grocery shopping and cook up a great meal.",
+        "videoUrl": "https://youtu.be/_ogiNGTxke4?si=pXfVkDAL9FtjwgcP"
+    },
+    {
+        "title": "AI-copiloted Design Thinking",
+        "description": "Please join John Maeda, Microsoft’s VP of Design and AI, along with his special guest, Ben Sheppard, McKinsey & Company’s Global Design Leader, as they cook up some special #AI recipes around Design Thinking.",
+        "videoUrl": "https://youtu.be/6Jr6z_YvJhc?si=6i7659MB2fPhmpY4"
+    },
+    {
+        "title": "AI Secure Insights",
+        "description": "John’s guest this week is Tracy Reinhold, Chief Security Officer for Everbridge.  Together, they discuss ideas on how to keep your company more secure and how AI can help in doing so.",
+        "videoUrl": "https://youtu.be/-w7J7jXg-CA?si=7f6c-e6_ow-_B2ND"
+    },
+    {
+        "title": "Teacher x Large Language Models",
+        "description": "In this Lab Session, we partnered with beloved programming teacher and creator of @TheCodingTrain Dan Shiffman to create ShiffBot, an AI tool that helps you learn to code in p5.js without just giving you the answers.",
+        "videoUrl": "https://youtu.be/FBFcNPa36m8?si=PY2SpsJBwTHXmxcZ"
+    },
+    {
+        "title": "Exploring Timing Attacks with Python",
+        "description": "Timing Attacks are a particular type of attacks that use flaws in code that impact the execution time to discover hints about secrets. Discover how it works using Python.",
+        "videoUrl": "https://youtu.be/RWj4xfQxQQ8?si=twCOk4Vka6JRvw8E"
+    },
+    {
+        "title": "Build Machine Learning Applications Easily with Gradio in Python",
+        "description": "Today we learn about Gradio, which allows us to easily build machine learning applications with graphical user interfaces.",
+        "videoUrl": "https://youtu.be/3DGLznJorT8?si=2NeTxnU4z6-s7m0_"
+    },
+    {
+        "title": "How to Use Gen-2",
+        "description": "Use this tutorial to learn how to use Gen-2 in Runway.",
+        "videoUrl": "https://youtu.be/dq8GZeDEqH8?si=rZIJmq80kBiFu81S"
+    },
+    {
+        "title": "Introducing Nextcloud Hub 7: The next generation of integrated collaboration",
+        "description": "Nextcloud Hub is the most advanced on-premises collaboration platform in the world. From new integration features to AI enhancements and a completely rewritten Files app, we are sure Hub 7 delivers the solutions you need to foster efficiency, collaboration and productivity - without losing control over your data!",
+        "videoUrl": "https://youtu.be/YohQfObl3I8?si=rOGWGkDVjrUgWpe9"
+    },
+    {
+        "title": "Building Contextual ChatBot using LLMs, Vector Databases & Python",
+        "description": "In this tutorial, I will demonstrate building a chatbot using OpenAI API and LLMs available on HuggingFace.",
+        "videoUrl": "https://youtu.be/xtv3Pee6uhk?si=cdfDKGDJ8iP7g5B_"
+    },
+    {
+        "title": "How To Use AI To Learn Your Research Field with Perplexity AI",
+        "description": "Use Perplexity AI to learn your research field and find research articles.",
+        "videoUrl": "https://youtu.be/miMR91GZGvE?si=q20-GWBsy71bglgv"
+    },
+    {
+        "title": "Getting Started with Polars",
+        "description": "Have you heard of this Polars thing? How is it different from Pandas? Do you want to check it out? In this workshop you will get exposed to Polars with a real-world dataset.",
+        "videoUrl": "https://youtu.be/CJ0f45evuME?si=CvwqECvYrZdiNNPA"
+    },
+    {
+        "title": "Using AI To Build A Game From Scratch (NO Experience)",
+        "description": "Here's a breakdown of how I used AI to make a video game.",
+        "videoUrl": "https://youtu.be/IyKKhxYJ4U4?si=ozzZcRNiai34sFj1"
+    },
+    {
+        "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python",
+        "description": "In this video you will learn to create a Langchain App to chat with multiple PDF files using the ChatGPT API and Huggingface Language Models.",
+        "videoUrl": "https://youtu.be/dXxQ0LR-3Hg?si=IP751rsqPnZGx2R7"
+    }
+]
