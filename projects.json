@@ -228,5 +228,10 @@
         "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python",
         "description": "In this video you will learn to create a Langchain App to chat with multiple PDF files using the ChatGPT API and Huggingface Language Models.",
         "videoUrl": "https://youtu.be/dXxQ0LR-3Hg?si=IP751rsqPnZGx2R7"
+    },
+    {
+        "title": "Getting Started with Rivet",
+        "description": "New to building LLM applications with Rivet? We'll go over how to get started, as well as some best practices for your first project.",
+        "videoUrl": "https://youtu.be/MieMYkn7WqE?si=PSBlASlIwGomLSgI"
     }
 ]
