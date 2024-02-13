@@ -233,5 +233,10 @@
         "title": "Getting Started with Rivet",
         "description": "New to building LLM applications with Rivet? We'll go over how to get started, as well as some best practices for your first project.",
         "videoUrl": "https://youtu.be/MieMYkn7WqE?si=PSBlASlIwGomLSgI"
+    },
+    {
+        "title": "Langchain no-code PDF Q+A",
+        "description ": "Learn how to build a QnA on your own PDF file under 2 mins without code.",
+        "": ""
     }
 ]
