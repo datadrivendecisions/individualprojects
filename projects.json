@@ -258,5 +258,10 @@
         "title": "OpenRPA and Node-RED",
         "description": "This live video shows how to set up OpenRPA and Node-RED. I'll have the best teacher as Allan Zimmermann, the Founder of OpenRPA, is my live help setting it up. Afterward, we'll build some simple RPA flows and link them together in Node-RED.",
         "videoUrl": "https://youtu.be/Zy04eSDy3RI?si=CxPEsryMA1HnLABv"
+    },
+    {
+        "title": "Building an Interactive Network Graph to Understand Communities",
+        "description": "In this tutorial, we will explore how communities form in organizations to develop a better solution than "The Org Chart". We will walk through using a few key Python libraries in the space, develop a toolkit for Clustering Attributed Graphs (more on that later) and build out an extensible interactive dashboard application that promises to take your legacy HR reporting structure to the next level.",
+        "videoUrl": "https://youtu.be/QUD7zkT_xJY?si=70pfwCQ0Fb_wiFRI"
     }
 ]
