@@ -253,5 +253,10 @@
         "title": "PandasAI, OpenAI and Streamlit - Analyzing File Uploads with User Prompts",
         "description": "In this video, we'll use Streamlit to build a small UI that allows users to upload a file of CSV data, and will create a text input and buttons that allow users to submit a prompt that can then be used to analyze and interrogate the data.",
         "videoUrl": "https://youtu.be/oSC2U2iuMRg?si=LEOdJEwgthG-0f7S"
+    },
+    {
+        "title": "OpenRPA and Node-RED",
+        "description": "This live video shows how to set up OpenRPA and Node-RED. I'll have the best teacher as Allan Zimmermann, the Founder of OpenRPA, is my live help setting it up. Afterward, we'll build some simple RPA flows and link them together in Node-RED.",
+        "videoUrl": "https://youtu.be/Zy04eSDy3RI?si=CxPEsryMA1HnLABv"
     }
 ]
