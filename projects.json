@@ -268,5 +268,20 @@
         "title": "This game was made by an AI agent",
         "description": "See the game that was entirely made by an AI from start to finish, and how the AI agent was creating using Rivet, the open-source visual AI programming environment!",
         "videoUrl": "https://youtu.be/rmrLXI2w0Vg?si=CfWJqlfVRrWcHWNL"
+    },
+    {
+        "title": "Voice Cloning In Multiple Languages",
+        "description": "In this video, we will look at Bark, the state of the art Open Source Text to Speech model from Sun AI. I will show you how to set it up locally and generate audio from your text prompt. You will also learn how to CLONE voices with Bard by utilizing the Conqui TTS.",
+        "videoUrl": "https://youtu.be/o8-1hb7hFTI?si=onzPp9g6vpzQbj39"
+    },
+    {
+        "title": "LIDA - Generate Infographics with LLMS",
+        "description": "LIDA is a library for generating data visualizations and data-faithful infographics. It provides a python api, a web api and a hybrid user interface (direct manipulation and multilingual natural language) for interactive chart, infographics and data story generation.",
+        "videoUrl": "https://youtu.be/QsyUkY6VQ58"
+    },
+    {
+        "title": "Pandas 2, Dask or Polars? Tackling larger data on a single machine",
+        "description": "Pandas 2 brings new Arrow data types, faster calculations and better scalability. Dask scales Pandas across cores. Polars is a new competitor to Pandas designed around Arrow with native multicore support. Which should you choose?.",
+        "videoUrl": "https://youtu.be/Qp3XZeB15lA?si=ZAx2U_Zhg_VIbRai"
     }
 ]
