@@ -283,5 +283,20 @@
         "title": "Pandas 2, Dask or Polars? Tackling larger data on a single machine",
         "description": "Pandas 2 brings new Arrow data types, faster calculations and better scalability. Dask scales Pandas across cores. Polars is a new competitor to Pandas designed around Arrow with native multicore support. Which should you choose?.",
         "videoUrl": "https://youtu.be/Qp3XZeB15lA?si=ZAx2U_Zhg_VIbRai"
+    },
+    {
+        "title": "Become a Data Storyteller with Streamlit!",
+        "description": "In this talk, we will dive into the numerous advantages of Streamlit as your trusted companion in the art of data storytelling. We will explore its components and learn how they can effortlessly turn your data into interactive and intuitive visual experiences.",
+        "videoUrl": "https://youtu.be/zi9KgTJjnjc?si=quSCPaY9DNyWzpjU"
+    },
+    {
+        "title": "Autoencoder In PyTorch",
+        "description": "In this Deep Learning Tutorial we learn how Autoencoders work and how we can implement them in PyTorch.",
+        "videoUrl": "https://youtu.be/zp8clK9yCro?si=G4mQ8kgFLuC8MeFU"
+    },
+    {
+        "title": "Building a RAG System With Google Gemma, Hugging Face and MongoDB",
+        "description": "In this video, we will walk you through the process of building a RAG system using the Google's Gemma open model, GTE embedding models and MongoDB as the vector database. We will be using Hugging Face as the model provider for this stack. By the end of this video, you will have a clear understanding of how to build a RAG system using the latest Gemma model and MongoDB",
+        "videoUrl": "https://youtu.be/BNUpRW-Dk90?si=LcI51eVBoYAa0iGx"
     }
 ]
