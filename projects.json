@@ -1,110 +1,8 @@
 [
     {
-        "title": "Explore Tensorflow with FastAPI",
-        "description": "Learn to integrate TensorFlow with FastAPI for advanced data processing.",
-        "videoUrl": "https://youtu.be/DSHfHT5qnGc?si=EjjGBbIuL2oiXfoT",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Sentiment analysis in Google Sheets",
-        "description": "Explore the fascinating world of sentiment analysis directly within Google Sheets. ",
-        "videoUrl": "https://youtu.be/Mz9JG9CUXXY?si=GQc3GBCCI05Oie_A",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Quick app development with Python and Taipy",
-        "description": "Learn how to quickly build and deploy interactive applications, emphasizing efficiency and ease of use.",
-        "videoUrl": "https://youtu.be/v_Lnd3EoEHk?si=t-jc-xJy9jsRz5FV",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Realtime Streamlit Dashboard",
-        "description": "Dive into the dynamic capabilities of Streamlit for creating real-time dashboards.",
-        "videoUrl": "https://youtu.be/YRA90MX4XiM?si=8ZjvGuZI2moM9QN1",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Prototype ML with Visual Blocks",
-        "description": "In this session, you will build an ML application in just 20 minutes using a no-code system called Visual Blocks. There are many examples to try, from AR virtual try-on experiences to LLM-driven trip planner. ",
-        "videoUrl": "https://youtu.be/VyQAVSKuhq4?si=KRivkXAeVbnKAFgm",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "The ChatGPT API Beginners Guide",
-        "description": "Learn how to build your own ChatGPT chatbot with the ChatGPT API, Python, and OpenAI in this tutorial.",
-        "videoUrl": "https://youtu.be/7p7kJvckrFE?si=krUvYjb9r1qJBxkp",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Using Copilot with Jupyter Notebooks",
-        "description": "If you want to learn how to use GitHub Copilot, the AI pair programmer that helps you write code faster and better, then this video is for you.",
-        "videoUrl": "https://youtu.be/QS_bh-3qKdw?si=WWl88d3qwL_rNsBu",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "OpenAI Whisper and Python: Easy Speech to Text",
-        "description": "Learn how to record, transcribe, and automate your journaling with Python, OpenAI Whisper, and the terminal!",
-        "videoUrl": "https://youtu.be/xDKAX2_pul0?si=X--HtiTOcRJSvQvY",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "How to build your first app using Power Apps",
-        "description": "Create low code Power Apps to automate everyday tasks. AI-driven Copilot capabilities make it easy to interact with your app and its data using natural language. ",
-        "videoUrl": "https://youtu.be/UwbCIZTx59I?si=fqpLrYZ9Yyia2NRR",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Dataiku for Generative AI",
-        "description": "Move beyond the lab and build real and safe Generative AI applications at enterprise scale.",
-        "videoUrl": "https://youtu.be/UVbrpX8Zkn8?si=kjcpb8YZkQtS9IC5",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Assistant API No-Code Integration: OpenAI Meets Zapier For Smart Automations",
-        "description": "The OpenAI Assistant API empowers developers and non-developers alike to build custom AI assistants within their applications, now with the added convenience of no-code integration using Zapier.",
-        "videoUrl": "https://youtu.be/IPdL5QOuPMo?si=aDWGySIVzD5WzoV0",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Keras: Shortcut to AI mastery",
-        "description": "This workshop will explore the powerful Keras 3 API and walk through deep learning best practices, how to write a simple model, and run it with a backend of your choice.",
-        "videoUrl": "https://youtu.be/0HcYOcFBQlk?si=JRY4jLGF0rw_mKZt",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Integrating Foundation Models into Your Code with Amazon Bedrock",
-        "description": "Discover Amazon Bedrock and learn how to integrate generative AI models from leading AI startups and Amazon into your applications.",
-        "videoUrl": "https://youtu.be/ab1mbj0acDo?si=mLKoBd4NtMj7CUai",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Introduction to Generative AI Studio",
-        "description": "Prototype and customize generative AI models with Generative AI Studio, a product on Vertex AI.",
-        "videoUrl": "https://youtu.be/-7nf5EJ2Fsc?si=1c-HwSrcyT69EfBA",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Build powerful AI apps with Copilot in Microsoft Fabric",
-        "description": "Build new analytics and AI models and supercharge your intelligent app strategy across your organization.",
-        "videoUrl": "https://youtu.be/rGA4K18mSwI?si=4Pa3ry2m4oVscXXp",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "AutoGen Studio Tutorial - NO CODE AI Agent Builder",
-        "description": "AutoGen Studio was released, and it makes creating AI Agent teams super simple; basically, there is no code.",
-        "videoUrl": "https://youtu.be/mUEFwUU0IfE?si=-zaudT_dmaWNLQIp",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Neural Networks Explained from Scratch using Python",
-        "description": "An intuitive understanding of Neural Networks through Python code and detailed animations.",
-        "videoUrl": "https://youtu.be/9RN2Wr8xvro?si=MUg7y9vJiwExu7Sq",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "How I Build AI WhatsApp Chatbots w/ Python",
-        "description": "Let's explore the WhatsApp API to build AI chatbotbots with pure Python.",
-        "videoUrl": "https://youtu.be/3YPeh-3AFmM?si=CuBqIlzDDw1Xrr-B",
+        "title": "AI Secure Insights",
+        "description": "John\u2019s guest this week is Tracy Reinhold, Chief Security Officer for Everbridge.  Together, they discuss ideas on how to keep your company more secure and how AI can help in doing so.",
+        "videoUrl": "https://youtu.be/-w7J7jXg-CA?si=7f6c-e6_ow-_B2ND",
         "category": "AI and Machine Learning"
     },
     {
@@ -120,99 +18,15 @@
         "category": "AI and Machine Learning"
     },
     {
-        "title": "AI Secure Insights",
-        "description": "John\u2019s guest this week is Tracy Reinhold, Chief Security Officer for Everbridge.  Together, they discuss ideas on how to keep your company more secure and how AI can help in doing so.",
-        "videoUrl": "https://youtu.be/-w7J7jXg-CA?si=7f6c-e6_ow-_B2ND",
+        "title": "Assistant API No-Code Integration: OpenAI Meets Zapier For Smart Automations",
+        "description": "The OpenAI Assistant API empowers developers and non-developers alike to build custom AI assistants within their applications, now with the added convenience of no-code integration using Zapier.",
+        "videoUrl": "https://youtu.be/IPdL5QOuPMo?si=aDWGySIVzD5WzoV0",
         "category": "AI and Machine Learning"
     },
     {
-        "title": "Teacher x Large Language Models",
-        "description": "In this Lab Session, we partnered with beloved programming teacher and creator of @TheCodingTrain Dan Shiffman to create ShiffBot, an AI tool that helps you learn to code in p5.js without just giving you the answers.",
-        "videoUrl": "https://youtu.be/FBFcNPa36m8?si=PY2SpsJBwTHXmxcZ",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Build Machine Learning Applications Easily with Gradio in Python",
-        "description": "Today we learn about Gradio, which allows us to easily build machine learning applications with graphical user interfaces.",
-        "videoUrl": "https://youtu.be/3DGLznJorT8?si=2NeTxnU4z6-s7m0_",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Introducing Nextcloud Hub 7: The next generation of integrated collaboration",
-        "description": "Nextcloud Hub is the most advanced on-premises collaboration platform in the world. From new integration features to AI enhancements and a completely rewritten Files app, we are sure Hub 7 delivers the solutions you need to foster efficiency, collaboration and productivity - without losing control over your data!",
-        "videoUrl": "https://youtu.be/YohQfObl3I8?si=rOGWGkDVjrUgWpe9",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Building Contextual ChatBot using LLMs, Vector Databases & Python",
-        "description": "In this tutorial, I will demonstrate building a chatbot using OpenAI API and LLMs available on HuggingFace.",
-        "videoUrl": "https://youtu.be/xtv3Pee6uhk?si=cdfDKGDJ8iP7g5B_",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "How To Use AI To Learn Your Research Field with Perplexity AI",
-        "description": "Use Perplexity AI to learn your research field and find research articles.",
-        "videoUrl": "https://youtu.be/miMR91GZGvE?si=q20-GWBsy71bglgv",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Using AI To Build A Game From Scratch (NO Experience)",
-        "description": "Here's a breakdown of how I used AI to make a video game.",
-        "videoUrl": "https://youtu.be/IyKKhxYJ4U4?si=ozzZcRNiai34sFj1",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python",
-        "description": "In this video you will learn to create a Langchain App to chat with multiple PDF files using the ChatGPT API and Huggingface Language Models.",
-        "videoUrl": "https://youtu.be/dXxQ0LR-3Hg?si=IP751rsqPnZGx2R7",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Langchain no-code PDF Q+A",
-        "description": "Learn how to build a QnA on your own PDF file under 2 mins without code.",
-        "videoUrl": "https://youtu.be/d7vfUodP0c4?si=LnJc092RCMmLK0b3",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Creating Interactive, Animated Reports in Streamlit with Vizzu",
-        "description": "Streamlit, celebrated for its user-friendly data app development platform, has recently integrated with Vizzu's ipyvizzu - an innovative open-source data visualization tool that emphasizes animation and storytelling. This collaboration empowers you to craft and share interactive, animated reports and dashboards that transcend traditional static presentations.",
-        "videoUrl": "https://youtu.be/dVCvJYfR38k?si=5laGNaB8jHWCvfTL",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Build a No-Code Chat-with-PDF LangChain app using Flowise and Bubble",
-        "description": "In this tutorial, we'll show you how to create a dynamic chat app where users can upload documents, filter searches, and ask questions directly within their files. Learn how to embed a chatbot, add a chat widget to any website, and explore various scenarios to build your chat application.",
-        "videoUrl": "https://youtu.be/kOwmPe8aLAA?si=7ttgSp2rRa_IIZLW",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "PandasAI, OpenAI and Streamlit - Analyzing File Uploads with User Prompts",
-        "description": "In this video, we'll use Streamlit to build a small UI that allows users to upload a file of CSV data, and will create a text input and buttons that allow users to submit a prompt that can then be used to analyze and interrogate the data.",
-        "videoUrl": "https://youtu.be/oSC2U2iuMRg?si=LEOdJEwgthG-0f7S",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "This game was made by an AI agent",
-        "description": "See the game that was entirely made by an AI from start to finish, and how the AI agent was creating using Rivet, the open-source visual AI programming environment!",
-        "videoUrl": "https://youtu.be/rmrLXI2w0Vg?si=CfWJqlfVRrWcHWNL",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Voice Cloning In Multiple Languages",
-        "description": "In this video, we will look at Bark, the state of the art Open Source Text to Speech model from Sun AI. I will show you how to set it up locally and generate audio from your text prompt. You will also learn how to CLONE voices with Bard by utilizing the Conqui TTS.",
-        "videoUrl": "https://youtu.be/o8-1hb7hFTI?si=onzPp9g6vpzQbj39",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "LIDA - Generate Infographics with LLMS",
-        "description": "LIDA is a library for generating data visualizations and data-faithful infographics. It provides a python api, a web api and a hybrid user interface (direct manipulation and multilingual natural language) for interactive chart, infographics and data story generation.",
-        "videoUrl": "https://youtu.be/QsyUkY6VQ58",
-        "category": "AI and Machine Learning"
-    },
-    {
-        "title": "Become a Data Storyteller with Streamlit!",
-        "description": "In this talk, we will dive into the numerous advantages of Streamlit as your trusted companion in the art of data storytelling. We will explore its components and learn how they can effortlessly turn your data into interactive and intuitive visual experiences.",
-        "videoUrl": "https://youtu.be/zi9KgTJjnjc?si=quSCPaY9DNyWzpjU",
+        "title": "AutoGen Studio Tutorial - NO CODE AI Agent Builder",
+        "description": "AutoGen Studio was released, and it makes creating AI Agent teams super simple; basically, there is no code.",
+        "videoUrl": "https://youtu.be/mUEFwUU0IfE?si=-zaudT_dmaWNLQIp",
         "category": "AI and Machine Learning"
     },
     {
@@ -222,39 +36,207 @@
         "category": "AI and Machine Learning"
     },
     {
-        "title": "Explain testing with Playwright",
-        "description": "Uncover the intricacies of web application testing using Playwright.",
-        "videoUrl": "https://youtu.be/0Oc2aAR17BU?si=whRkGIk2YZl9Crgc",
-        "category": "Web Development"
+        "title": "Become a Data Storyteller with Streamlit!",
+        "description": "In this talk, we will dive into the numerous advantages of Streamlit as your trusted companion in the art of data storytelling. We will explore its components and learn how they can effortlessly turn your data into interactive and intuitive visual experiences.",
+        "videoUrl": "https://youtu.be/zi9KgTJjnjc?si=quSCPaY9DNyWzpjU",
+        "category": "AI and Machine Learning"
     },
     {
-        "title": "Tour of FlutterFlow",
-        "description": "This is your first 10 minutes of FlutterFlow.",
-        "videoUrl": "https://youtu.be/GpXjU-ieAKU?si=EyS_IPLJIekTEl28",
-        "category": "Web Development"
+        "title": "Build Machine Learning Applications Easily with Gradio in Python",
+        "description": "Today we learn about Gradio, which allows us to easily build machine learning applications with graphical user interfaces.",
+        "videoUrl": "https://youtu.be/3DGLznJorT8?si=2NeTxnU4z6-s7m0_",
+        "category": "AI and Machine Learning"
     },
     {
-        "title": "Build a CRM application",
-        "description": "CRUD mastery with Django.",
-        "videoUrl": "https://youtu.be/pqWyUAT38e0?si=eVdY7tO9HiYFWrR-",
-        "category": "Web Development"
+        "title": "Build a No-Code Chat-with-PDF LangChain app using Flowise and Bubble",
+        "description": "In this tutorial, we'll show you how to create a dynamic chat app where users can upload documents, filter searches, and ask questions directly within their files. Learn how to embed a chatbot, add a chat widget to any website, and explore various scenarios to build your chat application.",
+        "videoUrl": "https://youtu.be/kOwmPe8aLAA?si=7ttgSp2rRa_IIZLW",
+        "category": "AI and Machine Learning"
     },
     {
-        "title": "Deploy a Django web app to Python Anywhere",
-        "description": "It took some time, but it's finally here. A free way to deploy your Django web app.",
-        "videoUrl": "https://youtu.be/xtnUwvjOThg?si=VowokUHztM4O_iOg",
-        "category": "Web Development"
+        "title": "Build powerful AI apps with Copilot in Microsoft Fabric",
+        "description": "Build new analytics and AI models and supercharge your intelligent app strategy across your organization.",
+        "videoUrl": "https://youtu.be/rGA4K18mSwI?si=4Pa3ry2m4oVscXXp",
+        "category": "AI and Machine Learning"
     },
     {
-        "title": "Effortless Data Analysis and Cleaning with Data Wrangler",
-        "description": "Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.",
-        "videoUrl": "https://www.youtube.com/watch?v=gc0Hm1NpYPo&t=650s&ab_channel=VisualStudioCode",
-        "category": "Data Analysis and Visualization"
+        "title": "Building Contextual ChatBot using LLMs, Vector Databases & Python",
+        "description": "In this tutorial, I will demonstrate building a chatbot using OpenAI API and LLMs available on HuggingFace.",
+        "videoUrl": "https://youtu.be/xtv3Pee6uhk?si=cdfDKGDJ8iP7g5B_",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python",
+        "description": "In this video you will learn to create a Langchain App to chat with multiple PDF files using the ChatGPT API and Huggingface Language Models.",
+        "videoUrl": "https://youtu.be/dXxQ0LR-3Hg?si=IP751rsqPnZGx2R7",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Creating AI Powered Apps with No Code in Frontly",
+        "description": "This session is your gateway to mastering the art of building powerful applications without the complexity of coding. Learn about the evolving no-code landscape, uncover the unique benefits of Frontly, and witness a live demonstration of building an app from scratch using Frontly's cutting-edge OpenAI Actions. By integrating the capabilities of ChatGPT directly into your apps, you'll see how Frontly is changing the game for developers and non-developers alike. ",
+        "videoUrl": "https://youtu.be/1oVAAH4WLdA?si=El8ksujqBEF_1OVT",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Creating Interactive, Animated Reports in Streamlit with Vizzu",
+        "description": "Streamlit, celebrated for its user-friendly data app development platform, has recently integrated with Vizzu's ipyvizzu - an innovative open-source data visualization tool that emphasizes animation and storytelling. This collaboration empowers you to craft and share interactive, animated reports and dashboards that transcend traditional static presentations.",
+        "videoUrl": "https://youtu.be/dVCvJYfR38k?si=5laGNaB8jHWCvfTL",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Dataiku for Generative AI",
+        "description": "Move beyond the lab and build real and safe Generative AI applications at enterprise scale.",
+        "videoUrl": "https://youtu.be/UVbrpX8Zkn8?si=kjcpb8YZkQtS9IC5",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Explore Tensorflow with FastAPI",
+        "description": "Learn to integrate TensorFlow with FastAPI for advanced data processing.",
+        "videoUrl": "https://youtu.be/DSHfHT5qnGc?si=EjjGBbIuL2oiXfoT",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "How I Build AI WhatsApp Chatbots w/ Python",
+        "description": "Let's explore the WhatsApp API to build AI chatbotbots with pure Python.",
+        "videoUrl": "https://youtu.be/3YPeh-3AFmM?si=CuBqIlzDDw1Xrr-B",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "How To Use AI To Learn Your Research Field with Perplexity AI",
+        "description": "Use Perplexity AI to learn your research field and find research articles.",
+        "videoUrl": "https://youtu.be/miMR91GZGvE?si=q20-GWBsy71bglgv",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "How to build your first app using Power Apps",
+        "description": "Create low code Power Apps to automate everyday tasks. AI-driven Copilot capabilities make it easy to interact with your app and its data using natural language. ",
+        "videoUrl": "https://youtu.be/UwbCIZTx59I?si=fqpLrYZ9Yyia2NRR",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Integrating Foundation Models into Your Code with Amazon Bedrock",
+        "description": "Discover Amazon Bedrock and learn how to integrate generative AI models from leading AI startups and Amazon into your applications.",
+        "videoUrl": "https://youtu.be/ab1mbj0acDo?si=mLKoBd4NtMj7CUai",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Introducing Nextcloud Hub 7: The next generation of integrated collaboration",
+        "description": "Nextcloud Hub is the most advanced on-premises collaboration platform in the world. From new integration features to AI enhancements and a completely rewritten Files app, we are sure Hub 7 delivers the solutions you need to foster efficiency, collaboration and productivity - without losing control over your data!",
+        "videoUrl": "https://youtu.be/YohQfObl3I8?si=rOGWGkDVjrUgWpe9",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Introduction to Generative AI Studio",
+        "description": "Prototype and customize generative AI models with Generative AI Studio, a product on Vertex AI.",
+        "videoUrl": "https://youtu.be/-7nf5EJ2Fsc?si=1c-HwSrcyT69EfBA",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Keras: Shortcut to AI mastery",
+        "description": "This workshop will explore the powerful Keras 3 API and walk through deep learning best practices, how to write a simple model, and run it with a backend of your choice.",
+        "videoUrl": "https://youtu.be/0HcYOcFBQlk?si=JRY4jLGF0rw_mKZt",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "LIDA - Generate Infographics with LLMS",
+        "description": "LIDA is a library for generating data visualizations and data-faithful infographics. It provides a python api, a web api and a hybrid user interface (direct manipulation and multilingual natural language) for interactive chart, infographics and data story generation.",
+        "videoUrl": "https://youtu.be/QsyUkY6VQ58",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Langchain no-code PDF Q+A",
+        "description": "Learn how to build a QnA on your own PDF file under 2 mins without code.",
+        "videoUrl": "https://youtu.be/d7vfUodP0c4?si=LnJc092RCMmLK0b3",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Neural Networks Explained from Scratch using Python",
+        "description": "An intuitive understanding of Neural Networks through Python code and detailed animations.",
+        "videoUrl": "https://youtu.be/9RN2Wr8xvro?si=MUg7y9vJiwExu7Sq",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "OpenAI Whisper and Python: Easy Speech to Text",
+        "description": "Learn how to record, transcribe, and automate your journaling with Python, OpenAI Whisper, and the terminal!",
+        "videoUrl": "https://youtu.be/xDKAX2_pul0?si=X--HtiTOcRJSvQvY",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "PandasAI, OpenAI and Streamlit - Analyzing File Uploads with User Prompts",
+        "description": "In this video, we'll use Streamlit to build a small UI that allows users to upload a file of CSV data, and will create a text input and buttons that allow users to submit a prompt that can then be used to analyze and interrogate the data.",
+        "videoUrl": "https://youtu.be/oSC2U2iuMRg?si=LEOdJEwgthG-0f7S",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Prototype ML with Visual Blocks",
+        "description": "In this session, you will build an ML application in just 20 minutes using a no-code system called Visual Blocks. There are many examples to try, from AR virtual try-on experiences to LLM-driven trip planner. ",
+        "videoUrl": "https://youtu.be/VyQAVSKuhq4?si=KRivkXAeVbnKAFgm",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Quick app development with Python and Taipy",
+        "description": "Learn how to quickly build and deploy interactive applications, emphasizing efficiency and ease of use.",
+        "videoUrl": "https://youtu.be/v_Lnd3EoEHk?si=t-jc-xJy9jsRz5FV",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Realtime Streamlit Dashboard",
+        "description": "Dive into the dynamic capabilities of Streamlit for creating real-time dashboards.",
+        "videoUrl": "https://youtu.be/YRA90MX4XiM?si=8ZjvGuZI2moM9QN1",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Sentiment analysis in Google Sheets",
+        "description": "Explore the fascinating world of sentiment analysis directly within Google Sheets. ",
+        "videoUrl": "https://youtu.be/Mz9JG9CUXXY?si=GQc3GBCCI05Oie_A",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Teacher x Large Language Models",
+        "description": "In this Lab Session, we partnered with beloved programming teacher and creator of @TheCodingTrain Dan Shiffman to create ShiffBot, an AI tool that helps you learn to code in p5.js without just giving you the answers.",
+        "videoUrl": "https://youtu.be/FBFcNPa36m8?si=PY2SpsJBwTHXmxcZ",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "The ChatGPT API Beginners Guide",
+        "description": "Learn how to build your own ChatGPT chatbot with the ChatGPT API, Python, and OpenAI in this tutorial.",
+        "videoUrl": "https://youtu.be/7p7kJvckrFE?si=krUvYjb9r1qJBxkp",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "This game was made by an AI agent",
+        "description": "See the game that was entirely made by an AI from start to finish, and how the AI agent was creating using Rivet, the open-source visual AI programming environment!",
+        "videoUrl": "https://youtu.be/rmrLXI2w0Vg?si=CfWJqlfVRrWcHWNL",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Using AI To Build A Game From Scratch (NO Experience)",
+        "description": "Here's a breakdown of how I used AI to make a video game.",
+        "videoUrl": "https://youtu.be/IyKKhxYJ4U4?si=ozzZcRNiai34sFj1",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Using Copilot with Jupyter Notebooks",
+        "description": "If you want to learn how to use GitHub Copilot, the AI pair programmer that helps you write code faster and better, then this video is for you.",
+        "videoUrl": "https://youtu.be/QS_bh-3qKdw?si=WWl88d3qwL_rNsBu",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Voice Cloning In Multiple Languages",
+        "description": "In this video, we will look at Bark, the state of the art Open Source Text to Speech model from Sun AI. I will show you how to set it up locally and generate audio from your text prompt. You will also learn how to CLONE voices with Bard by utilizing the Conqui TTS.",
+        "videoUrl": "https://youtu.be/o8-1hb7hFTI?si=onzPp9g6vpzQbj39",
+        "category": "AI and Machine Learning"
     },
     {
         "title": "Apache Superset | Open Source Data Exploration & Vizualization Platform",
         "description": "In this video, we explore Superset, a free and open-source data exploration & visualization tool.",
         "videoUrl": "https://youtu.be/_1_rg5gAAjE?si=xKQQDQESwoY5TVA1",
+        "category": "Data Analysis and Visualization"
+    },
+    {
+        "title": "Effortless Data Analysis and Cleaning with Data Wrangler",
+        "description": "Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.",
+        "videoUrl": "https://www.youtube.com/watch?v=gc0Hm1NpYPo&t=650s&ab_channel=VisualStudioCode",
         "category": "Data Analysis and Visualization"
     },
     {
@@ -276,9 +258,9 @@
         "category": "Database and Data Management"
     },
     {
-        "title": "SuperDuperDB",
-        "description": "Dive into SuperDuperDB to understand its features and capabilities.",
-        "videoUrl": "https://youtu.be/MT3oiLHRZ7Y?si=4bFkCKtH0GMUvz-5",
+        "title": "Building an Open Source Data Stack",
+        "description": "By the end of the workshop, you should have the context you need to design your own analytics stack using open-source tools.",
+        "videoUrl": "https://youtu.be/S1wPKjWFmqo?si=2TbvYvUOkLKYqLFR",
         "category": "Database and Data Management"
     },
     {
@@ -288,27 +270,21 @@
         "category": "Database and Data Management"
     },
     {
-        "title": "Building an Open Source Data Stack",
-        "description": "By the end of the workshop, you should have the context you need to design your own analytics stack using open-source tools.",
-        "videoUrl": "https://youtu.be/S1wPKjWFmqo?si=2TbvYvUOkLKYqLFR",
+        "title": "SuperDuperDB",
+        "description": "Dive into SuperDuperDB to understand its features and capabilities.",
+        "videoUrl": "https://youtu.be/MT3oiLHRZ7Y?si=4bFkCKtH0GMUvz-5",
         "category": "Database and Data Management"
-    },
-    {
-        "title": "Getting Started with Rivet",
-        "description": "New to building LLM applications with Rivet? We'll go over how to get started, as well as some best practices for your first project.",
-        "videoUrl": "https://youtu.be/MieMYkn7WqE?si=PSBlASlIwGomLSgI",
-        "category": "Programming and Development Tools"
-    },
-    {
-        "title": "OpenRPA and Node-RED",
-        "description": "This live video shows how to set up OpenRPA and Node-RED. I'll have the best teacher as Allan Zimmermann, the Founder of OpenRPA, is my live help setting it up. Afterward, we'll build some simple RPA flows and link them together in Node-RED.",
-        "videoUrl": "https://youtu.be/Zy04eSDy3RI?si=CxPEsryMA1HnLABv",
-        "category": "Programming and Development Tools"
     },
     {
         "title": "How to Make a Game in Python",
         "description": "An introduction to Python Game Development using the Pygame module, a simple 2D graphics library in Python.",
         "videoUrl": "https://youtu.be/waY3LfJhQLY?si=xNptW4kwJzu6JNy3",
+        "category": "Game Development and Simulations"
+    },
+    {
+        "title": "Make Your Own Visual Novel",
+        "description": "Ren'Py is a powerful, easy-to-use, and FREE visual novel game engine based on the Python programming language.",
+        "videoUrl": "https://youtu.be/vith10gG8L4?si=i2lXOFV-yYG3S7d0",
         "category": "Game Development and Simulations"
     },
     {
@@ -324,15 +300,15 @@
         "category": "Game Development and Simulations"
     },
     {
-        "title": "Make Your Own Visual Novel",
-        "description": "Ren'Py is a powerful, easy-to-use, and FREE visual novel game engine based on the Python programming language.",
-        "videoUrl": "https://youtu.be/vith10gG8L4?si=i2lXOFV-yYG3S7d0",
-        "category": "Game Development and Simulations"
+        "title": "Building a RAG System With Google Gemma, Hugging Face and MongoDB",
+        "description": "In this video, we will walk you through the process of building a RAG system using the Google's Gemma open model, GTE embedding models and MongoDB as the vector database. We will be using Hugging Face as the model provider for this stack. By the end of this video, you will have a clear understanding of how to build a RAG system using the latest Gemma model and MongoDB",
+        "videoUrl": "https://youtu.be/BNUpRW-Dk90?si=LcI51eVBoYAa0iGx",
+        "category": "Other"
     },
     {
-        "title": "Mapping with Python & Folium",
-        "description": "Create maps from raw CSV data in Python. Learn how to read in data, transform it to extract the information and create maps.",
-        "videoUrl": "https://youtu.be/H8Ypb8Ei9YA?si=k6Ij8rq1GQcw1lny",
+        "title": "Building an Interactive Network Graph to Understand Communities",
+        "description": "In this tutorial, we will explore how communities form in organizations to develop a better solution than 'The Org Chart'. We will walk through using a few key Python libraries in the space, develop a toolkit for Clustering Attributed Graphs (more on that later) and build out an extensible interactive dashboard application that promises to take your legacy HR reporting structure to the next level.",
+        "videoUrl": "https://youtu.be/QUD7zkT_xJY?si=70pfwCQ0Fb_wiFRI",
         "category": "Other"
     },
     {
@@ -348,15 +324,45 @@
         "category": "Other"
     },
     {
-        "title": "Building an Interactive Network Graph to Understand Communities",
-        "description": "In this tutorial, we will explore how communities form in organizations to develop a better solution than 'The Org Chart'. We will walk through using a few key Python libraries in the space, develop a toolkit for Clustering Attributed Graphs (more on that later) and build out an extensible interactive dashboard application that promises to take your legacy HR reporting structure to the next level.",
-        "videoUrl": "https://youtu.be/QUD7zkT_xJY?si=70pfwCQ0Fb_wiFRI",
+        "title": "Mapping with Python & Folium",
+        "description": "Create maps from raw CSV data in Python. Learn how to read in data, transform it to extract the information and create maps.",
+        "videoUrl": "https://youtu.be/H8Ypb8Ei9YA?si=k6Ij8rq1GQcw1lny",
         "category": "Other"
     },
     {
-        "title": "Building a RAG System With Google Gemma, Hugging Face and MongoDB",
-        "description": "In this video, we will walk you through the process of building a RAG system using the Google's Gemma open model, GTE embedding models and MongoDB as the vector database. We will be using Hugging Face as the model provider for this stack. By the end of this video, you will have a clear understanding of how to build a RAG system using the latest Gemma model and MongoDB",
-        "videoUrl": "https://youtu.be/BNUpRW-Dk90?si=LcI51eVBoYAa0iGx",
-        "category": "Other"
+        "title": "Getting Started with Rivet",
+        "description": "New to building LLM applications with Rivet? We'll go over how to get started, as well as some best practices for your first project.",
+        "videoUrl": "https://youtu.be/MieMYkn7WqE?si=PSBlASlIwGomLSgI",
+        "category": "Programming and Development Tools"
+    },
+    {
+        "title": "OpenRPA and Node-RED",
+        "description": "This live video shows how to set up OpenRPA and Node-RED. I'll have the best teacher as Allan Zimmermann, the Founder of OpenRPA, is my live help setting it up. Afterward, we'll build some simple RPA flows and link them together in Node-RED.",
+        "videoUrl": "https://youtu.be/Zy04eSDy3RI?si=CxPEsryMA1HnLABv",
+        "category": "Programming and Development Tools"
+    },
+    {
+        "title": "Build a CRM application",
+        "description": "CRUD mastery with Django.",
+        "videoUrl": "https://youtu.be/pqWyUAT38e0?si=eVdY7tO9HiYFWrR-",
+        "category": "Web Development"
+    },
+    {
+        "title": "Deploy a Django web app to Python Anywhere",
+        "description": "It took some time, but it's finally here. A free way to deploy your Django web app.",
+        "videoUrl": "https://youtu.be/xtnUwvjOThg?si=VowokUHztM4O_iOg",
+        "category": "Web Development"
+    },
+    {
+        "title": "Explain testing with Playwright",
+        "description": "Uncover the intricacies of web application testing using Playwright.",
+        "videoUrl": "https://youtu.be/0Oc2aAR17BU?si=whRkGIk2YZl9Crgc",
+        "category": "Web Development"
+    },
+    {
+        "title": "Tour of FlutterFlow",
+        "description": "This is your first 10 minutes of FlutterFlow.",
+        "videoUrl": "https://youtu.be/GpXjU-ieAKU?si=EyS_IPLJIekTEl28",
+        "category": "Web Development"
     }
 ]
