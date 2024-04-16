@@ -360,6 +360,12 @@
         "category": "Web Development"
     },
     {
+        "title": "How to build a custom Inventory Management System",
+        "description": "Learn how to build an Inventory Management app without writing a single line of code in just minutes! This video tutorial walks you through utilizing Glide's inventory management no-code template to create a customized solution for your business. With the app, you can effortlessly visualize all products and their specifications, register inputs and outputs, monitor inventory levels, access order history, and manage various warehouses.",
+        "videoUrl": "https://youtu.be/bqHjpOwnUXI?si=BdLc7GiUHQdvLF8A",
+        "category": "Web Development"
+    },
+    {
         "title": "Tour of FlutterFlow",
         "description": "This is your first 10 minutes of FlutterFlow.",
         "videoUrl": "https://youtu.be/GpXjU-ieAKU?si=EyS_IPLJIekTEl28",
