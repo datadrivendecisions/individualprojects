@@ -35,7 +35,7 @@
       }
       function createCard(data) {
         const videoId = extractVideoID(data.youtubeUrl);
-        const iframeHtml = `<iframe width="100%" height="100%" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+        const iframeHtml = `<iframe width="560" height="315" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
         const imageUrl = `https://github.com/datadrivendecisions/individualprojects/blob/main/images/${data.alias.toLowerCase()}.png?raw=true`; // Construct image URL from alias
         return `
           <div>
@@ -46,11 +46,11 @@
                       </div>
                       <div class="col-md-6">
                           <div class="card-body">
-                              <img src="${imageUrl}" class="img-fluid rounded-circle mb-3" width="150px" alt="${data.alias}">
+                              <img src="${imageUrl}" class="img-fluid rounded-circle mb-3" width="100px" alt="${data.alias}">
                               <h5 class="card-title">${data.alias}</h5>
                               <p class="card-text"><small class="text-muted">${data.studyBackground}</small></p>
                               <p class="card-text">${data.motivation}</p>
-                              <p class="card-text">Initial ideas: ${data.initialProjectIdeas}</p>
+                              <p class="card-text"><strong>Initial ideas:</strong> ${data.initialProjectIdeas}</p>
                           </div>
                       </div>
                   </div>
