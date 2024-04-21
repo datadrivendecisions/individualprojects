@@ -37,7 +37,7 @@
       function createCard(data) {
         const videoId = extractVideoID(data.youtubeUrl);
         const iframeHtml = `<iframe width="100%" height="100%" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
-        const imageUrl = `/images/${data.alias.toLowerCase()}.png`; // Construct image URL from alias
+        const imageUrl = `../images/${data.alias.toLowerCase()}.png`; // Construct image URL from alias
         return `
           <div>
               <div class="card mb-3">
