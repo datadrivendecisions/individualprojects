@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Bootstrap Cards with Videos</title>
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container mt-5">
+      <div
+        id="card-container"
+        class="row"
+      >
+        <!-- Cards will be generated here -->
+      </div>
+    </div>
+
+    <!-- Bootstrap JS and Popper (Optional) -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js"></script>
+    <script>
+      function extractVideoID(url) {
+        const regExp =
+          /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/;
+        const match = url.match(regExp);
+        return match && match[7].length == 11 ? match[7] : false;
+      }
+
+      function createCard(data) {
+        const videoId = extractVideoID(data.youtubeUrl);
+        const iframeHtml = `<iframe width="100%" height="100%" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+        const imageUrl = `/images/${data.alias.toLowerCase()}.png`; // Construct image URL from alias
+        return `
+          <div>
+              <div class="card mb-3">
+                  <div class="row g-0">
+                      <div class="col-md-6">
+                          ${iframeHtml}
+                      </div>
+                      <div class="col-md-6">
+                          <div class="card-body">
+                              <img src="${imageUrl}" class="img-fluid rounded-circle mb-3" width="150px" alt="${data.alias}">
+                              <h5 class="card-title">${data.alias}</h5>
+                              <p class="card-text"><small class="text-muted">${data.studyBackground}</small></p>
+                              <p class="card-text">${data.motivation}</p>
+                              <p class="card-text">Initial ideas: ${data.initialProjectIdeas}</p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          `;
+      }
+
+      function loadCards() {
+        const container = document.getElementById("card-container");
+        fetch("display.json")
+          .then((response) => response.json())
+          .then((projects) => {
+            projects.forEach((data) => {
+              container.innerHTML += createCard(data);
+            });
+          });
+      }
+
+      window.onload = loadCards;
+    </script>
+  </body>
+</html>
