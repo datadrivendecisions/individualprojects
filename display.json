@@ -34,7 +34,7 @@
     {
         "alias": "Larsome",
         "image": "",
-        "youtubeUrl": "",
+        "youtubeUrl": "https://youtu.be/xDKAX2_pul0",
         "studyBackground": "",
         "motivation": "",
         "initialProjectIdeas": ""
@@ -54,6 +54,14 @@
         "studyBackground": "",
         "motivation": "",
         "initialProjectIdeas": ""
+    },
+    {
+        "alias": "LuckyLucas",
+        "image": "",
+        "youtubeUrl": "https://www.youtube.com/watch?v=v_Lnd3EoEHk",
+        "studyBackground": "Marketing",
+        "motivation": "I'm working in a marketing agency, and we're struggling with connecting data between different departments and extracting insights from it. I want to create an app for marketing consultants that will help analyze data from Marketing Platforms such as Google Ads and Google Search Console. ",
+        "initialProjectIdeas": "My initial project ideas revolve around utilizing Taipy to develop the app's framework. Additionally, I intend to incorporate machine learning, likely leveraging TensorFlow, and LLM to enhance the app's capabilities, ensuring it delivers efficient and intelligent functionality to users."
     },
     {
         "alias": "LucidLucy",
