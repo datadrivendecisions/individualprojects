@@ -74,10 +74,10 @@
     {
         "alias": "AstralAnh",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://www.youtube.com/watch?v=dVCvJYfR38k&t=1457s",
+        "studyBackground": "IB - Finance and Control ",
+        "motivation": "In my last internship, I worked as a Financial Controlling intern, and one of my responsibility is tracking and documenting CAPEX projects' progress. The first mondays of the month were always nightmares since I had to load a heavy Excel files containing spendings of CAPEX projects to a dashboard on Google sheets. The whole loading and adjusting dashboard alone could take 3-4 hours, very manual and little value-added. Therefore, I want to create a more efficient, interactive project tracking dashboard that can satisfy different stakeholders' needs.",
+        "initialProjectIdeas": "The CAPEX project tracking dashboard should take little time to process - maximum 30 minutes, with the following core functions: (1) - Spending per month within the fiscal year, (2) - List of invoices per project, per suppliers up to date, (3) - Separation between CAPEX and OPEX spendings, (4) - Interactive so that it would be beneficial management accounting-wise and also for project managers. "
     },
     {
         "alias": "CheeryChau",
@@ -98,10 +98,10 @@
     {
         "alias": "Giftastic",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://youtu.be/_ogiNGTxke4",
+        "studyBackground": "IB - organization & Change",
+        "motivation": "I chose this topic because im interested in fitness and is wondering how AI coud help with groceries and making healthy meals to help grow in your fitness journey",
+        "initialProjectIdeas": "How AI & machine learning can help guide those struggling with their meal prep to achieve their desired body goal"
     },
     {
         "alias": "SonicSimona",
