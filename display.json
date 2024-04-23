@@ -36,8 +36,8 @@
         "image": "",
         "youtubeUrl": "https://youtu.be/xDKAX2_pul0",
         "studyBackground": "HBO-ICT (IT)",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "motivation": "After having to make a summary of the minutes of our startup meetings, I thought (as we want to be data driven) I would make a tool to automatically make minutes and a summary from the recordings.",
+        "initialProjectIdeas": "A tool where you can upload a recording of a meeting; it will analyse the audio and will create minutes about the meeting. It will make a summary and actionpoints."
     },
     {
         "alias": "WindWielder",
