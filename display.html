@@ -27,6 +27,11 @@
 
       function createCard(project) {
         const youtube_id = extractVideoID(project.youtubeUrl);
+        
+        Object.keys(project).forEach(key => {
+          project[key] = project[key].replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        }); // clean up html injections
+
         return `
           ${youtube_id !== "" ? `
             <a href="${project.youtubeUrl}" target="_blank">
