@@ -2,10 +2,10 @@
     {
         "alias": "Jorassic",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://www.youtube.com/watch?v=1oVAAH4WLdA&t=1s",
+        "studyBackground": "Finance & Control",
+        "motivation": "In my day to day life I sometimes find it hard to keep my agenda nice and clear. With, school, work, football, gym and different appointments it sometimes gets messy. With a personalized app for helping me build my schedule and reminding me of my tasks. I think it should make it easier for me. ",
+        "initialProjectIdeas": "Using Frontly to help me build my app."
     },
     {
         "alias": "BubblyHat",
@@ -82,10 +82,10 @@
     {
         "alias": "CheeryChau",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://www.youtube.com/watch?v=SSW9LzOJSus",
+        "studyBackground": "International Business - Finance",
+        "motivation": "Throughout my powerlifting journey, I've noticed beginners often struggle to figure out the correct way to perform exercises. This app will be a great tool to help beginners improve their technique and prevent injuries by offering personalized feedback based on scientific principles.",
+        "initialProjectIdeas": "I will create a Python-based application that analyzes video footage of individuals performing the main 3 powerlifting exercises (squat, deadlift, bench) to assess their form and provide corrective suggestions. This will be combined with insights from research papers on proper exercise forms, ensuring recommendations are evidence-based."
     },
     {
         "alias": "JangleGiang",
@@ -176,9 +176,9 @@
         "initialProjectIdeas": ""
     },
     {
-        "alias": "NegaFate",
+        "alias": "Chuckie",
         "image": "",
-        "youtubeUrl": "https://www.youtube.com/watch?v=waY3LfJhQLY&t=75s&ab_channel=TechWithTim",
+        "youtubeUrl": "https://youtu.be/3YPeh-3AFmM",
         "studyBackground": "IB-  Specialized in marketing",
         "motivation": "I have little brothers who love gaming and do it a lot. through the years they also brought me into gaming with them. I find gaming very interesting and how different games can create different sort of emotions. That's why i chose this video. ",
         "initialProjectIdeas": "learning how to create a game in python. And what sort of emotional responsesit will give people. And how addicting it can be."
