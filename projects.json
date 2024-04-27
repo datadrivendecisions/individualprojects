@@ -370,5 +370,11 @@
         "description": "This is your first 10 minutes of FlutterFlow.",
         "videoUrl": "https://youtu.be/GpXjU-ieAKU?si=EyS_IPLJIekTEl28",
         "category": "Web Development"
+    },
+    {
+        "title": "Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python",
+        "description": "This video tutorial explains how to create a football analysis system using machine learning techniques such as YOLO for object detection, trackers for motion tracking, and K-means clustering for team identification based on jersey colors. The project also incorporates optical flow for camera movement analysis, perspective transformation to gauge actual distances, and calculations for player speeds and distances covered, making it a comprehensive guide for both novice and seasoned machine learning engineers.",
+        "videoUrl": "https://youtu.be/neBZ6huolkg?si=qL0B54u2yIcGF7D4",
+        "category": "AI and Machine Learning"
     }
 ]
