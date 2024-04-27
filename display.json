@@ -90,10 +90,10 @@
     {
         "alias": "JangleGiang",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://www.youtube.com/watch?v=vith10gG8L4",
+        "studyBackground": "IB - Marketing & Sales",
+        "motivation": "Like many others, I've experienced difficulties with preparing for internship interviews. By creating a simulation visual novel game, I hope to lessen the stress of interview preparation but also provide a fun platform. ",
+        "initialProjectIdeas": "This project is aimed at helping marketing students practice mock internship interviews. By simulating realistic interview scenarios, the game should offer an interactive platform for students to refine interview skills and receive feedback. "
     },
     {
         "alias": "Giftastic",
@@ -114,10 +114,10 @@
     {
         "alias": "Kianetic",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://www.youtube.com/watch?v=waY3LfJhQLY&ab_channel=TechWithTim",
+        "studyBackground": "Facilty Management (FM)",
+        "motivation": "I have been playing video games for as long as i can remember and have always been itching to make one myself, so i can play it with my dad. ",
+        "initialProjectIdeas": "I am first planning on exploring the different kind of games i would (within a reasonable scope) be able to create in python, after that i will pick a theme and start the development."
     },
     {
         "alias": "KiteVan",
@@ -170,10 +170,10 @@
     {
         "alias": "MartyMartian",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://www.youtube.com/watch?v=dXxQ0LR-3Hg&t=14s",
+        "studyBackground": "Commercial Economics",
+        "motivation": "During my internship I used many academic papers to back my findings within the organisation. This would have been very useful because all the academic papers were pdf's. Because I have yet another internship and a master which I want to pursue I would like to make this to chat to these papers.",
+        "initialProjectIdeas": "Learning how to create this Langchain app to chat with multiple pdf's at once."
     },
     {
         "alias": "NegaFate",
