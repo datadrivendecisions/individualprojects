@@ -18,9 +18,9 @@
     {
         "alias": "Laurafic",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1oVAAH4WLdA",
+        "studyBackground": "Business Finance",
+        "motivation": "I often struggle with planning my everyday activities and setting my priorities during the busy work week. Therefore, I would like to create an AI powered daily productivity planner which would plan my day/week schedule based on: the importance, the deadline (if applicable), and average time completion of a specific task, specific times of day I aim to complete them. ",
         "initialProjectIdeas": ""
     },
     {
@@ -42,18 +42,18 @@
     {
         "alias": "WindWielder",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://www.youtube.com/watch?v=mUEFwUU0IfE&t=56s",
+        "studyBackground": "Communications",
+        "motivation": "Chatgpt helps me a lot during the study. But it is also limited in complicated problem solving. Thus I think it's much better for AutoGen to instruct different AI agents to \"discuss\" and \"communicate\" with each other.",
+        "initialProjectIdeas": "I would like to get familiar with AutoGen and get the tailored solution from it. I would like to have something better than chagpt."
     },
     {
-        "alias": "BartyMcfly",
+        "alias": "Bartware",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://www.youtube.com/watch?v=aQ4yQXeB1Ss",
+        "studyBackground": "International Business + Communication",
+        "motivation": "I have been building my Second Brain with document, book notes, articles and web clippings for some time. However, I always forget what I already know. To scratch my own (and maybe other's) itch, I want to develop a robust AI assistant. For this I aim to use Local Agentic RAG (with custom-coded tools) and DSPy with a Local-LLM through LlamaIndex to access my Personal Knowledge Management System in Obsidian (Second Brain).",
+        "initialProjectIdeas": "Create an AI assistant to interact with my Second Brain (Obsidian)"
     },
     {
         "alias": "LuckyLucas",
@@ -154,9 +154,9 @@
     {
         "alias": "ThunderThom",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
+        "youtubeUrl": "https://www.youtube.com/watch?v=neBZ6huolkg&t=206s",
+        "studyBackground": "Finance & Control",
+        "motivation": "I've loved sports for ever. I play field hockey but watch football an awful lot. I would like to find out how we can use data and analytics to improve a sport and make teams win",
         "initialProjectIdeas": ""
     },
     {
