@@ -267,7 +267,7 @@
         "title": "Knowledge Graph Construction Demo from raw text using an LLM",
         "description": "Code & Application: https://github.com/neo4j/NaLLM Use the repo to run a demo of the app.",
         "videoUrl": "https://youtu.be/Hg4ahTQlBm0?si=KSym-6k8TH93B5cv",
-        "category": "Database and Data Management"
+        "category": "AI and Machine Learning"
     },
     {
         "title": "SuperDuperDB",
@@ -303,7 +303,7 @@
         "title": "Building a RAG System With Google Gemma, Hugging Face and MongoDB",
         "description": "In this video, we will walk you through the process of building a RAG system using the Google's Gemma open model, GTE embedding models and MongoDB as the vector database. We will be using Hugging Face as the model provider for this stack. By the end of this video, you will have a clear understanding of how to build a RAG system using the latest Gemma model and MongoDB",
         "videoUrl": "https://youtu.be/BNUpRW-Dk90?si=LcI51eVBoYAa0iGx",
-        "category": "Other"
+        "category": "AI and Machine Learning"
     },
     {
         "title": "Building an Interactive Network Graph to Understand Communities",
@@ -321,7 +321,7 @@
         "title": "How to Use Gen-2",
         "description": "Use this tutorial to learn how to use Gen-2 in Runway.",
         "videoUrl": "https://youtu.be/dq8GZeDEqH8?si=rZIJmq80kBiFu81S",
-        "category": "Other"
+        "category": "AI and Machine Learning"
     },
     {
         "title": "Mapping with Python & Folium",
@@ -333,7 +333,7 @@
         "title": "Getting Started with Rivet",
         "description": "New to building LLM applications with Rivet? We'll go over how to get started, as well as some best practices for your first project.",
         "videoUrl": "https://youtu.be/MieMYkn7WqE?si=PSBlASlIwGomLSgI",
-        "category": "Programming and Development Tools"
+        "category": "AI and Machine Learning"
     },
     {
         "title": "OpenRPA and Node-RED",
@@ -382,5 +382,11 @@
         "description": "Today, I'll be sharing how to build a platformer game in Python. This game will have pixel-perfect collision, animated characters, and much much more!",
         "videoUrl": "https://youtu.be/B6DrRN5z_uU?si=MMcglIQFZwBaUZGp",
         "category": "Game Development and Simulations"
+    },
+    {
+        "title": "Scrapegraphai Usecase",
+        "description": "ScrapeGraphAI is a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites, documents and XML files. Just say which information you want to extract and the library will do it for you!",
+        "videoUrl": "https://youtu.be/ljoY1W6gPnY?si=N6G61JIprSJziQpF",
+        "category": "AI and Machine Learning"
     }
 ]
