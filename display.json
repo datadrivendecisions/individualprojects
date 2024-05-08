@@ -106,10 +106,10 @@
     {
         "alias": "SonicSimona",
         "image": "",
-        "youtubeUrl": "",
-        "studyBackground": "",
-        "motivation": "",
-        "initialProjectIdeas": ""
+        "youtubeUrl": "https://youtu.be/rGA4K18mSwI",
+        "studyBackground": "International Business- Specializing in Organization & Change",
+        "motivation": "Many individuals, even after completing their studies, or transitioning from high school to university, have been showing this lack of personal recognition of their own skills and need for self-awareness, particularly their talents, career paths and competencies. I noticed this gap while having the position of a Talent Acquisition intern through several interviews. Students need guidance and professional direction, and this case is well-aligned with the digital inclinations of today's students. That is why, I want to build an app which combines digital resources to support personal and professional growth.",
+        "initialProjectIdeas": "A digital platform that serves as a beacon of guidance and direction. My initial project idea is to build a PowerApp with the personal use of Copilot, a tool which includes self-assesments, webinars, seminars, study case scenarios to address various aspects of personal and professional growth. It will be designed in such a way, it can become, to a certain extent, dependent to physical activities( workshops, summer bootcamps, educational institutions) allowing more hands-on application. "
     },
     {
         "alias": "Kianetic",
