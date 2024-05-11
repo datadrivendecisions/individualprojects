@@ -388,5 +388,11 @@
         "description": "ScrapeGraphAI is a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites, documents and XML files. Just say which information you want to extract and the library will do it for you!",
         "videoUrl": "https://youtu.be/ljoY1W6gPnY?si=N6G61JIprSJziQpF",
         "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Twenty: Free Open Source CRM",
+        "description": "Discover Twenty, a free open-source alternative to SalesForce and Pipedrive to manage your customer relationships.",
+        "videoUrl": "https://youtu.be/n4OiVp-NWMo?si=Mdtw50qe8D32uo2u",
+        "category": "Other"
     }
 ]
