@@ -35,8 +35,8 @@
                 <input type="text" class="form-control" id="studentName" name="studentName" required>
             </div>
             <div class="mb-3 col-2">
-                <label for="studentNumber" class="form-label">Student number</label>
-                <input type="text" class="form-control" id="studentNumber" name="studentNumber" required>
+                <label for="assessorName" class="form-label">Student number</label>
+                <input type="text" class="form-control" id="assessorName" name="assessorName" required>
             </div>
             <div class="mb-3 col-2">
                 <label for="reviewDate" class="form-label">Assessment date</label>
@@ -169,6 +169,18 @@
                 </tbody>
             </table>
             <div class="mb-3">
+                <label for="portfolioComplete" class="form-label">Portfolio complete</label>
+                <input type="checkbox" id="portfolioComplete" name="portfolioComplete">
+            </div>
+            <div class="mb-3">
+                <label for="apaStandards" class="form-label">Referencing according to APA standards</label>
+                <input type="checkbox" id="apaStandards" name="apaStandards">
+            </div>
+            <div class="mb-3">
+                <label for="githubLink" class="form-label">GitHub link provided</label>
+                <input type="checkbox" id="githubLink" name="githubLink">
+            </div>
+            <div class="mb-3">
                 <label for="remarks" class="form-label">General remarks</label>
                 <textarea class="form-control" name="remarks" id="remarks" rows="5"></textarea>
             </div>
@@ -199,6 +211,8 @@
         let totalScore = 0;
         let knockout = false;
 
+        let criteriaMet = 0;
+
         criteria.forEach((criterion, index) => {
             const radios = document.getElementsByName('criteria' + criterion);
             let selectedValue = 0;
@@ -207,16 +221,23 @@
                     selectedValue = parseInt(radio.value);
                 }
             });
-            if (selectedValue === 1) {
-                knockout = true;
+            if (selectedValue >= 2) {
+                criteriaMet++;
             }
             totalScore += selectedValue * weights[index];
         });
 
-        let finalGrade = knockout ? 'KO' : Math.round(totalScore * 5);
+        const portfolioComplete = document.getElementById('portfolioComplete').checked;
+        const apaStandards = document.getElementById('apaStandards').checked;
+        const githubLink = document.getElementById('githubLink').checked;
 
-        if (knockout && totalScore >= 2) {
+        if (criteriaMet < 4 || !portfolioComplete || !apaStandards || !githubLink) {
+            knockout = true;
+        }
+
+        if (knockout) {
             finalGrade = 'KO';
+            console.log(finalGrade)
         } else {
             const gradeMapping = {
                 5: 4.0,
@@ -247,7 +268,7 @@
         const element = document.getElementById('pdfContent');
         html2pdf(element, {
             margin: 0.2,
-            filename: 'assessment_form-' + studentName + '.pdf',
+            filename: 'assessment-result-' + studentName + '.pdf',
             image: { type: 'jpeg', quality: 0.98 },
             html2canvas: { scale: 2, logging: true, useCORS: true },
             jsPDF: { unit: 'in', format: 'A4', orientation: 'landscape' },
