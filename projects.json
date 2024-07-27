@@ -297,13 +297,13 @@
         "title": "Building a RAG System With Google Gemma, Hugging Face and MongoDB",
         "description": "In this video, we will walk you through the process of building a RAG system using the Google's Gemma open model, GTE embedding models and MongoDB as the vector database. We will be using Hugging Face as the model provider for this stack. By the end of this video, you will have a clear understanding of how to build a RAG system using the latest Gemma model and MongoDB",
         "videoUrl": "https://youtu.be/BNUpRW-Dk90?si=LcI51eVBoYAa0iGx",
-        "category": "Data Engineering"
+        "category": "AI and Machine Learning"
     },
     {
         "title": "DataChain Open-Source Release - A new way to manage your Unstructured Data",
         "description": "DataChain is an open-source Python library for processing and curating unstructured data at scale.",
         "videoUrl": "https://www.youtube.com/live/JT5AwGz5QMI?si=CQvnC84y_NV4qEyR",
-        "category": "Other"
+        "category": "Data Engineering"
     },
     {
         "title": "Exploring Timing Attacks with Python",
