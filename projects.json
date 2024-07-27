@@ -60,12 +60,6 @@
         "category": "AI and Machine Learning"
     },
     {
-        "title": "Building Contextual ChatBot using LLMs, Vector Databases & Python",
-        "description": "In this tutorial, I will demonstrate building a chatbot using OpenAI API and LLMs available on HuggingFace.",
-        "videoUrl": "https://youtu.be/xtv3Pee6uhk?si=cdfDKGDJ8iP7g5B_",
-        "category": "AI and Machine Learning"
-    },
-    {
         "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python",
         "description": "In this video you will learn to create a Langchain App to chat with multiple PDF files using the ChatGPT API and Huggingface Language Models.",
         "videoUrl": "https://youtu.be/dXxQ0LR-3Hg?si=IP751rsqPnZGx2R7",
@@ -255,13 +249,13 @@
         "title": "Baserow with Python",
         "description": "Discover how to use Baserow with Python for efficient database management.",
         "videoUrl": "https://youtu.be/_FLpOlyH-rs?si=fEuyHxdWsT7NRx3v",
-        "category": "Database and Data Management"
+        "category": "Data Engineering"
     },
     {
         "title": "Building an Open Source Data Stack",
         "description": "By the end of the workshop, you should have the context you need to design your own analytics stack using open-source tools.",
         "videoUrl": "https://youtu.be/S1wPKjWFmqo?si=2TbvYvUOkLKYqLFR",
-        "category": "Database and Data Management"
+        "category": "Data Engineering"
     },
     {
         "title": "Knowledge Graph Construction Demo from raw text using an LLM",
@@ -273,7 +267,7 @@
         "title": "SuperDuperDB",
         "description": "Dive into SuperDuperDB to understand its features and capabilities.",
         "videoUrl": "https://youtu.be/MT3oiLHRZ7Y?si=4bFkCKtH0GMUvz-5",
-        "category": "Database and Data Management"
+        "category": "Data Engineering"
     },
     {
         "title": "How to Make a Game in Python",
@@ -394,5 +388,65 @@
         "description": "Discover Twenty, a free open-source alternative to SalesForce and Pipedrive to manage your customer relationships.",
         "videoUrl": "https://youtu.be/n4OiVp-NWMo?si=Mdtw50qe8D32uo2u",
         "category": "Other"
+    },
+    {
+        "title": "I Built a CoPilot+ AI PC",
+        "description": "Raspberry Pi AI enters the chat.",
+        "videoUrl": "https://youtu.be/HgIMJbN0DS0?si=bQCTifBPynq1Jilo",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Building Interactive Apps with Claude 3.5 Sonnet & Artifacts",
+        "description": "Let's take a look at awesome use cases for Claude 3.5 Sonnet including: creating interactive interactive quiz apps directly from PDFs, creating interactive mind maps, creating dynamic flowcharts that can dynamically react to selection of parts of the code, and more!",
+        "videoUrl": "https://youtu.be/1Z84dHi9uII?si=cnxEe8Gfnp9xToMm",
+        "category": "Programming and Development Tools"
+    },
+    {
+        "title": "From Text To Visual Diagrams with LangChain, Pydantic & ChatGPT",
+        "description": "In this we'll learn how to use models like ChatGPT to transform text into clear, visual Knowledge Graphs, leveraging LangChain & Pydantic.",
+        "videoUrl": "https://youtu.be/TQBqSuboEcg?si=V3nNpEbvFryujvPB",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Hopsworks 4.0 - The AI Lakehouse",
+        "description": "Hopsworks 4.0 is the first unified factory for AI systems, suitable for various applications (batch, real-time, large language models).",
+        "videoUrl": "https://youtu.be/kP0iU4JgIEw?si=26gDOod09qtZ9lQF",
+        "category": "Data Engineering"
+    },
+    {
+        "title": "Introducing Synthesia 2.0",
+        "description": "We’ve reinvented every step of the tedious video production process and created the world’s first AI video communications platform for businesses.",
+        "videoUrl": "https://youtu.be/gZaBwdru_bk?si=9OzUMR0BSyVJnRC7",
+        "category": "Other"
+    },
+    {
+        "title": "Pictory vs Invideo vs Fliki vs Synthesia vs Lumen5",
+        "description": "Check out our comparison of Pictory, Invideo, Fliki, Synthesia, and Lumen5! We'll dive into the features and benefits of each platform, helping you decide which one suits your needs best. From easy video creation to advanced editing tools, find out which one reigns supreme for your next project!",
+        "videoUrl": "https://youtu.be/Fl-tgJeN5Z0?si=tVdSusg3qqbYqtwn",
+        "category": "Other"
+    },
+    {
+        "title": "Building an interactive EDA app with a movies dataset",
+        "description": "If you've ever wondered questions such as what makes a successful movie, which movie genre performs best at the box office, then you're in luck! In this video, ‪@DataProfessor‬ shows you how to build an interactive data explorer app for analyzing a movies data set.",
+        "videoUrl": "https://youtu.be/-yct0Qivpik?si=3YXeSrv9R7uMvjm6",
+        "category": "Data Analysis and Visualization"
+    },
+    {
+        "title": "Taipy Designer: Your Python Drag-and-drop GUI Building",
+        "description": "In this technical hands-on session, we're presenting our brand new WYSIWYG Python solution: Taipy Designer. It's a one-in-a-kind drag-and-drop interface that allows you to effortlessly build dynamic GUIs on top of your Python scripts.",
+        "videoUrl": "https://youtu.be/9ScbuhBwcok?si=BLkWAzr0Mi0iDfWW",
+        "category": "Data Analysis and Visualization"
+    },
+    {
+        "title": "How to do Object Detection using ESP32-CAM and Edge Impulse YOLO Model",
+        "description": "In this video, we demonstrate how to build an image recognition system using the ESP32-CAM module to identify vegetables like tomatoes, potatoes, and onions.",
+        "videoUrl": "https://youtu.be/bZIKVaD3dRk?si=62ypldpEnEoerV9KW",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Mastering Complex Business Decision-Making with AI",
+        "description": "In this technical session, we address the low success rate of data and AI projects in companies caused by the lack of autonomy of data scientists working in isolation, leading to a disconnect between data insights and actionable business decisions. The solution we're talking about here is the Taipy Scenario and Data Management.",
+        "videoUrl": "https://youtu.be/sZFAmd_X9qk?si=P6cYS3j2OVoR9psx",
+        "category": "Data Engineering"
     }
 ]
