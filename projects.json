@@ -454,5 +454,11 @@
         "description": "In this step-by-step guide, we'll explore how easy it is to create your own AI video avatar.",
         "videoUrl": "https://youtu.be/uI3KvOQeZ94?si=tbe4pHyPUBjrgBuH",
         "category": "Other"
+    },
+    {
+        "title": "Raspberry Pi 5: Getting Started",
+        "description": "This is a guide for getting started with Raspberry Pi. For this video, I wanted to try out two projects perfect for getting started with a Raspberry Pi. Building a remote Pi camera and building an indoor air monitor.",
+        "videoUrl": "https://youtu.be/UtLyX72-688?si=qpeOXjotJjKK5wdr",
+        "category": "Other"
     }
 ]
