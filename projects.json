@@ -460,5 +460,11 @@
         "description": "This is a guide for getting started with Raspberry Pi. For this video, I wanted to try out two projects perfect for getting started with a Raspberry Pi. Building a remote Pi camera and building an indoor air monitor.",
         "videoUrl": "https://youtu.be/UtLyX72-688?si=qpeOXjotJjKK5wdr",
         "category": "Other"
+    },
+    {
+        "title": "AI Python for Beginners",
+        "description": "AI Python for Beginners is designed to help you leverage the power of Python programming, even if your goal isn’t to become a software developer or AI engineer. This four-part course that teaches you to code practical AI applications from day one, even if you’ve never programmed before. ",
+        "videoUrl": "https://youtu.be/wTgNP1LSVVI?si=1GBLyzdaPa1jqmbl",
+        "category": "AI and Machine Learning"
     }
 ]
