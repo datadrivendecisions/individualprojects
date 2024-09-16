@@ -463,8 +463,14 @@
     },
     {
         "title": "AI Python for Beginners",
-        "description": "AI Python for Beginners is designed to help you leverage the power of Python programming, even if your goal isn’t to become a software developer or AI engineer. This four-part course that teaches you to code practical AI applications from day one, even if you’ve never programmed before. ",
+        "description": "AI Python for Beginners is designed to help you leverage the power of Python programming, even if your goal isn’t to become a software developer or AI engineer. This four-part course that teaches you to code practical AI applications from day one, even if you’ve never programmed before.",
         "videoUrl": "https://youtu.be/wTgNP1LSVVI?si=1GBLyzdaPa1jqmbl",
+        "category": "AI and Machine Learning"
+    },
+    {
+        "title": "Football AI Tutorial",
+        "description": "Let's build a Football AI system to dig deeper into match stats! We'll use computer vision and machine learning to track players, determine which team is which, and even calculate stuff like ball possession and speed.",
+        "videoUrl": "https://youtu.be/aBVGKoNZQUw?si=i2ySq1bCVatm62-u",
         "category": "AI and Machine Learning"
     }
 ]
